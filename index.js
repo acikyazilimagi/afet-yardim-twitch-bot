@@ -1,10 +1,11 @@
 const tmi = require("tmi.js");
 const { isPossiblyAddress } = require('./addresscheck');
 const { config } = require('./config');
+const { notifyAddress } = require('./notify');
 
 // Define configuration options
 const opts = {
-  channels: config.channels,
+  channels: config.CHANNELS,
 };
 
 // Create a client with our options
@@ -22,19 +23,23 @@ function onMessageHandler(target, context, msg, self) {
   if (self) {
     return;
   }
-
   
-
   if (isPossiblyAddress(msg)) {
-    console.log('Detected Turkish address: ' + msg);
+    const data = { 
+      author: context.username, 
+      message: msg, 
+      channel: target.startsWith('#') ? target.slice(1) : target, // remove # from channel name 
+      timestamp: parseInt(context['tmi-sent-ts'].slice(0,-3))  // convert string milliseconds to number seconds 
+    };
+    if (config.LOG_CHAT) {
+      console.log('Detected Turkish address: ' + msg);
+    }
+    notifyAddress(data)
+      .catch(e => console.error(e));
   } else {
-    console.log('Irrelevant Chat: ' + msg);
-  }
-
-  // Try to detect if the message contains a Turkish address
-  // For the purpose of this example, we will consider any message that contains the word "Address" as a Turkish address.
-  if (msg.toLowerCase().includes("address")) {
-    console.log(`Detected Turkish address: ${msg}`);
+    if (config.LOG_CHAT) {
+      console.log('Irrelevant Chat: ' + msg);
+    }
   }
 }
 

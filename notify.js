@@ -1,14 +1,23 @@
 const axios = require('axios');
+const { config } = require('./config');
 
-const notifyAddress = async (address) => {
+const cache = { messageCache: [] }
+
+const notifyAddress = async (data) => {
+    cache.messageCache.push(data);
+    if (cache.messageCache.length < config.NOTIFY_BATCH_SIZE) {
+        return;
+    }
+    const currentBatch = cache.messageCache;
+    cache.messageCache = [];
     try {
-        const res = await axios.post("https://mertcobanov-deprem-ocr-2.hf.space/run/upload-text", {
-            data: [ address ]
-        });
+        const res = await axios.post(config.NOTIFY_URL, config.DATA_MAPPER(currentBatch));
         console.log(res.data);
     } catch (e) {
-        console.log(e.message);
+        console.error(e.message, currentBatch);
     }
 }
 
-notifyAddress("kahramanmaraş onikişubat binevler 5 nisan mahallesi 1009 sokak yemek ve suya ihtiyaçları var 1 tane bebek var");
+module.exports.notifyAddress = notifyAddress;
+
+// notifyAddress("kahramanmaraş onikişubat binevler 5 nisan mahallesi 1009 sokak yemek ve suya ihtiyaçları var 1 tane bebek var");
