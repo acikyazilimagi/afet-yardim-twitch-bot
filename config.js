@@ -1,6 +1,6 @@
 module.exports.config = {
     // WHICH CHANNELS TO LISTEN TO
-    CHANNELS: ["kendinemuzisyen", "jahrein", "levo"],
+    CHANNELS: ["kendinemuzisyen", "jahrein", "levo", "haskologlu", "wtcn", "surhaybakis", "hasanabi", "elraenn", "haruncan", "hype"],
 
     // WHETHER TO APPLY FILTERING FOR KEYWORDS (USES FUZZY SEARCH NOT EXACT MATCH)
     KEYWORD_MATCH: true,
