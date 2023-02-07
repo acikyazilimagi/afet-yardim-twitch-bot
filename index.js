@@ -1,9 +1,10 @@
 const tmi = require("tmi.js");
 const { isPossiblyAddress } = require('./addresscheck');
+const { config } = require('./config');
 
 // Define configuration options
 const opts = {
-  channels: ["kendinemuzisyen"]
+  channels: config.channels,
 };
 
 // Create a client with our options

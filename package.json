@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "fuse.js": "^6.6.2",
     "normalize-diacritics": "2.14.0",
     "tmi.js": "^1.8.5"
