@@ -1,5 +1,8 @@
 const { normalizeSync } = require('normalize-diacritics')
 
+// https://docs.google.com/spreadsheets/d/1_w1akARJIKzCxMQnlv9ZObM7m-yXu_XJn-_SvjR6j74/edit
+// removed city names
+
 module.exports.keywords = [
 'ulaşamıyoruz',
 'göçük altındalar',
@@ -127,11 +130,8 @@ module.exports.keywords = [
 'yengem',
 'enistem',
 'amcam',
-'antakya',
 'afadbaskanlik',
-'gaziantep',
 'blok',
-'adıyaman',
 'nolur',
 'caddesi',
 'cadde',
