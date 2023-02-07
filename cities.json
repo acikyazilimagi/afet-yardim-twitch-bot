@@ -1,0 +1,3886 @@
+[
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Aladag"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Seyhan"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Yuregir"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Cukurova"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Saricam"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Ceyhan"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Kozan"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Imamoglu"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Karatas"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Karaisali"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Pozanti"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Yumurtalik"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Tufanbeyli"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Feke"
+  },
+  {
+    "il_adi": "Adana",
+    "ilce_adi": "Saimbeyli"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Kahta"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Besni"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Golbasi"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Gerger"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Sincik"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Celikhan"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Tut"
+  },
+  {
+    "il_adi": "Adiyaman",
+    "ilce_adi": "Samsat"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Sandikli"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Dinar"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Bolvadin"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Sinanpasa"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Emirdag"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Suhut"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Cay"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Ihsaniye"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Iscehisar"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Sultandagi"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Cobanlar"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Dazkiri"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Basmakci"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Hocalar"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Bayat"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Evciler"
+  },
+  {
+    "il_adi": "Afyonkarahisar",
+    "ilce_adi": "Kiziloren"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Patnos"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Dogubayazit"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Diyadin"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Eleskirt"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Tutak"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Taslicay"
+  },
+  {
+    "il_adi": "Agri",
+    "ilce_adi": "Hamur"
+  },
+  {
+    "il_adi": "Amasya",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Amasya",
+    "ilce_adi": "Merzifon"
+  },
+  {
+    "il_adi": "Amasya",
+    "ilce_adi": "Suluova"
+  },
+  {
+    "il_adi": "Amasya",
+    "ilce_adi": "Tasova"
+  },
+  {
+    "il_adi": "Amasya",
+    "ilce_adi": "Goynucek"
+  },
+  {
+    "il_adi": "Amasya",
+    "ilce_adi": "Hamamozu"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Cankaya"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Kecioren"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Yenimahalle"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Mamak"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Etimesgut"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Sincan"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Altindag"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Pursaklar"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Golbasi"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Polatli"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Cubuk"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Kahramankazan"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Beypazari"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Haymana"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Elmadag"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Akyurt"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Sereflikochisar"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Bala"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Kizilcahamam"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Nallihan"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Ayas"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Camlidere"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Kalecik"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Gudul"
+  },
+  {
+    "il_adi": "Ankara",
+    "ilce_adi": "Evren"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Kepez"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Muratpasa"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Alanya"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Manavgat"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Konyaalti"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Serik"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Aksu"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Kumluca"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Dosemealti"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Kas"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Korkuteli"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Gazipasa"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": " Finike"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Kemer"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Elmali"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Demre"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Akseki"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Gundogmus"
+  },
+  {
+    "il_adi": "Antalya",
+    "ilce_adi": "Ibradi"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Hopa"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Borcka"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Arhavi"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Yusufeli"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Savsat"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Aksu"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Kumluca"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Ardanuc"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Kemalpasa"
+  },
+  {
+    "il_adi": "Artvin",
+    "ilce_adi": "Murgul"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Efeler"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Nazilli"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Soke"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Kusadasi"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Didim"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Incirliova"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Cine"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Germencik"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Bozdogan"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Kosk"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Kuyucak"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Kocarli"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Sultanhisar"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Karacasu"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Buharkent"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Yenipazar"
+  },
+  {
+    "il_adi": "Aydin",
+    "ilce_adi": "Karpuzlu"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Altieylul"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Karesi"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Edremit"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Bandirma"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Gonen"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Ayvalik"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Burhaniye"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Bigadic"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Susurluk"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Dursunbey"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Sindirgi"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Erdek"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Ivrindi"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Havran"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Kepsut"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Manyas"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Savastepe"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Gomec"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Balya"
+  },
+  {
+    "il_adi": "Balikesir",
+    "ilce_adi": "Marmara"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Bozuyuk"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Osmaneli"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Sogut"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Golpazari"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Pazaryeri"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Inhisar"
+  },
+  {
+    "il_adi": "Bilecik",
+    "ilce_adi": "Yenipazar"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Genc"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Solhan"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Karliova"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Adakli"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Kigi"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Yedisu"
+  },
+  {
+    "il_adi": "Bingol",
+    "ilce_adi": "Yayladere"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Tatvan"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Guroymak"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Ahlat"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Hizan"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Mutki"
+  },
+  {
+    "il_adi": "Bitlis",
+    "ilce_adi": "Adilcevaz"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Gerede"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Mudurnu"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Goynuk"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Mengen"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Yenicaga"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Dortdivan"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Seben"
+  },
+  {
+    "il_adi": "Bolu",
+    "ilce_adi": "Kibriscik"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Bucak"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Golhisar"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Yesilova"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Cavdir"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Tefenni"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Aglasun"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Karamanli"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Altinyayla"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Celtikci"
+  },
+  {
+    "il_adi": "Burdur",
+    "ilce_adi": "Kemer"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Osmangazi"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Yildirim"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Nilufer"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Inegol"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Gemlik"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Mustafakemalpa"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Mudanya"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Gursu"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Karacabey"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Orhangazi"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Kestel"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Yenisehir"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Iznik"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Orhaneli"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Keles"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Buyukorhan"
+  },
+  {
+    "il_adi": "Bursa",
+    "ilce_adi": "Harmancik"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Biga"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Can"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Gelibolu"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Ayvacik"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Ezine"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Yenice"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Bayramic"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Lapseki"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Gokceada"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Eceabat"
+  },
+  {
+    "il_adi": "Canakkale",
+    "ilce_adi": "Bozcaada"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Orta"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Cerkes"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Ilgaz"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Sabanozu"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Kursunlu"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Yaprakli"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Kizilirmak"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Eldivan"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Atkaracalar"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Korgun"
+  },
+  {
+    "il_adi": "Cankiri",
+    "ilce_adi": "Bayramoren"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Sungurlu"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Osmancik"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Iskilip"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Alaca"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Bayat"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Kargi"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Mecitozu"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Ortakoy"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Ugurludag"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Dodurga"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Oguzlar"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Lacin"
+  },
+  {
+    "il_adi": "Corum",
+    "ilce_adi": "Bogazkale"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Pamukkale"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Merkezefendi"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Civril"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Acipayam"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Tavas"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Honaz"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Saraykoy"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Buldan"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Kale"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Cal"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Cameli"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Serinhisar"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Bozkurt"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Guney"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Cardak"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Bekilli"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Beyagac"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Babadag"
+  },
+  {
+    "il_adi": "Denizli",
+    "ilce_adi": "Baklan"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Baglar"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Kayapinar"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Yenisehir"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Ergani"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Bismil"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Sur"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Silvan"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Cinar"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Cermik"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Dicle"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Kulp"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Hani"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Lice"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Egil"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Hazro"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Kocakoy"
+  },
+  {
+    "il_adi": "Diyarbakir",
+    "ilce_adi": "Cungus"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Kesan"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Uzunkopru"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Ipsala"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Havsa"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Meric"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Enez"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Suloglu"
+  },
+  {
+    "il_adi": "Edirne",
+    "ilce_adi": "Lalapasa"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Kovancilar"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Karakocan"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Palu"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Baskil"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Aricak"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Maden"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Sivrice"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Keban"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Alacakaya"
+  },
+  {
+    "il_adi": "Elazig",
+    "ilce_adi": "Agin"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Tercan"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Uzumlu"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Refahiye"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Cayirli"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Ilic"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Kemah"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Kemaliye"
+  },
+  {
+    "il_adi": "Erzincan",
+    "ilce_adi": "Otlukbeli"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Yakutiye"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Palandoken"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Aziziye"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Horasan"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Oltu"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Pasinler"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Karayazi"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Hinis"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Tekman"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Askale"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Karacoban"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Senkaya"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Cat"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Tortum"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Koprukoy"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Ispir"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Narman"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Uzundere"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Olur"
+  },
+  {
+    "il_adi": "Erzurum",
+    "ilce_adi": "Pazaryolu"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Odunpazari"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Tepebasi"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Sivrihisar"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Cifteler"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Seyitgazi"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Alpu"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Mihaliccik"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Mahmudiye"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Beylikova"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Inonu"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Gunyuzu"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Saricakaya"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Mihalgazi"
+  },
+  {
+    "il_adi": "Eskisehir",
+    "ilce_adi": "Han"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Sahinbey"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Sehitkamil"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Nizip"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Islahiye"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Nurdagi"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Araban"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Oguzeli"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Yavuzeli"
+  },
+  {
+    "il_adi": "Gaziantep",
+    "ilce_adi": "Karkamis"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Bulancak"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Espiye"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Gorele"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Tirebolu"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Sebinkarahisar"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Kesap"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Dereli"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Yaglidere"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Piraziz"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Eynesil"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Alucra"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Camoluk"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Guce"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Dogankent"
+  },
+  {
+    "il_adi": "Giresun",
+    "ilce_adi": "Canakci"
+  },
+  {
+    "il_adi": "Gumushane",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Gumushane",
+    "ilce_adi": "Kelkit"
+  },
+  {
+    "il_adi": "Gumushane",
+    "ilce_adi": "Siran"
+  },
+  {
+    "il_adi": "Gumushane",
+    "ilce_adi": "Kurtun"
+  },
+  {
+    "il_adi": "Gumushane",
+    "ilce_adi": "Torul"
+  },
+  {
+    "il_adi": "Gumushane",
+    "ilce_adi": "Kose"
+  },
+  {
+    "il_adi": "Hakkari",
+    "ilce_adi": "Yuksekova"
+  },
+  {
+    "il_adi": "Hakkari",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Hakkari",
+    "ilce_adi": "Semdinli"
+  },
+  {
+    "il_adi": "Hakkari",
+    "ilce_adi": "Derecik"
+  },
+  {
+    "il_adi": "Hakkari",
+    "ilce_adi": "Cukurca"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Antakya"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Iskenderun"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Defne"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Dortyol"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Samandag"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Kirikhan"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Reyhanli"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Arsuz"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Altinozu"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Hassa"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Payas"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Erzin"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Yayladagi"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Belen"
+  },
+  {
+    "il_adi": "Hatay",
+    "ilce_adi": "Kumlu"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Yalvac"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Egirdir"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Sarkikaraagac"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Gelendost"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Keciborlu"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Senirkent"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Sutculer"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Gonen"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Uluborlu"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Atabey"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Aksu"
+  },
+  {
+    "il_adi": "Isparta",
+    "ilce_adi": "Yenisarbademli"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Tarsus"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Toroslar"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Akdeniz"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Yenisehir"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Mezitli"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Erdemli"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Silifke"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Anamur"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Mut"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Bozyazi"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Gulnar"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Aydincik"
+  },
+  {
+    "il_adi": "Mersin",
+    "ilce_adi": "Camliyayla"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Esenyurt"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Kucukcekmece"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Bagcilar"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Pendik"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Umraniye"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Bahcelievler"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Uskudar"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Sultangazi"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Maltepe"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Gaziosmanpasa"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Kartal"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Kadikoy"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Esenler"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Kagithane"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Fatih"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Avcilar"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Basaksehir"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Atasehir"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Sancaktepe"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Eyup"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Sariyer"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Beylikduzu"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Sultanbeyli"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Gungoren"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Zeytinburnu"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Sisli"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Bayrampasa"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Arnavutkoy"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Tuzla"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Cekmekoy"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Buyukcekmece"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Beykoz"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Beyoglu"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Bakirkoy"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Silivri"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Besiktas"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Catalca"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Sile"
+  },
+  {
+    "il_adi": "Istanbul",
+    "ilce_adi": "Adalar"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Buca"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Karabaglar"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Bornova"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Konak"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Karsiyaka"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Bayrakli"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Cigli"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Torbali"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Menemen"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Gaziemir"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Odemis"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Kemalpasa"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Bergama"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Aliaga"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Menderes"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Tire"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Balcova"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Urla"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Narlidere"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Dikili"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Kiraz"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Seferihisar"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Cesme"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Bayindir"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Selcuk"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Foca"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Guzelbahce"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Kinik"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Beydag"
+  },
+  {
+    "il_adi": "Izmir",
+    "ilce_adi": "Karaburun"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Kagizman"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Sarikamis"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Selim"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Digor"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Arpacay"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Akyaka"
+  },
+  {
+    "il_adi": "Kars",
+    "ilce_adi": "Susuz"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Tosya"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Taskopru"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Cide"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Inebolu"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Arac"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Bozkurt"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Daday"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Azdavay"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Catalzeytin"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Doganyurt"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Kure"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Pinarbasi"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Ihsangazi"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Senpazar"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Abana"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Hanonu"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Seydiler"
+  },
+  {
+    "il_adi": "Kastamonu",
+    "ilce_adi": "Agli"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Melikgazi"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Kocasinan"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Talas"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Develi"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Yahyali"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Bunyan"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Pinarbasi"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Tomarza"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Yesilhisar"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Sarioglan"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Hacilar"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Sariz"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Felahiye"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Akkisla"
+  },
+  {
+    "il_adi": "Kayseri",
+    "ilce_adi": "Ozvatan"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Luleburgaz"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Babaeski"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Vize"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Pinarhisar"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Demirkoy"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Pehlivankoy"
+  },
+  {
+    "il_adi": "Kirklareli",
+    "ilce_adi": "Kofcaz"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Kaman"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Mucur"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Cicekdagi"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Akpinar"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Boztepe"
+  },
+  {
+    "il_adi": "Kirsehir",
+    "ilce_adi": "Akcakent"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Gebze"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Izmit"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Darica"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Korfez"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Golcuk"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Derince"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Cayirova"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Kartepe"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Basiskele"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Karamursel"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Kandira"
+  },
+  {
+    "il_adi": "Kocaeli",
+    "ilce_adi": "Dilovasi"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Selcuklu"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Meram"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Karatay"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Eregli"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Aksehir"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Beysehir"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Cumra"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Seydisehir"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Ilgin"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Cihanbeyli"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Kulu"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Karapinar"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Kadinhani"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Sarayonu"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Bozkir"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Yunak"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Huyuk"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Doganhisar"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Altinekin"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Hadim"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Celtik"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Guneysinir"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Emirgazi"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Taskent"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Tuzlukcu"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Derebucak"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Akoren"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Ahirli"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Derbent"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Halkapinar"
+  },
+  {
+    "il_adi": "Konya",
+    "ilce_adi": "Yalihuyuk"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Tavsanli"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Simav"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Gediz"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Emet"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Altintas"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Domanic"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Hisarcik"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Aslanapa"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Cavdarhisar"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Saphane"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Pazarlar"
+  },
+  {
+    "il_adi": "Kutahya",
+    "ilce_adi": "Dumlupinar"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Yesilyurt"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Battalgazi"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Dogansehir"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Akcadag"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Darende"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Hekimhan"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Yazihan"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Puturge"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Arapgir"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Kuluncak"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Arguvan"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Kale"
+  },
+  {
+    "il_adi": "Malatya",
+    "ilce_adi": "Doganyol"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Yunusemre"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Akhisar"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Sehzadeler"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Turgutlu"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Salihli"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Soma"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Alasehir"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Saruhanli"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Kula"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Demirci"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Kirikagac"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Sarigol"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Gordes"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Selendi"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Ahmetli"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Golmarmara"
+  },
+  {
+    "il_adi": "Manisa",
+    "ilce_adi": "Koprubasi"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Onikisubat"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Dulkadiroglu"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Elbistan"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Afsin"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Turkoglu"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Pazarcik"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Goksun"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Andirin"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Caglayancerit"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Nurhak"
+  },
+  {
+    "il_adi": "Kahramanmaras",
+    "ilce_adi": "Ekinozu"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Kiziltepe"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Artuklu"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Midyat"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Nusaybin"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Derik"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Mazidagi"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Dargecit"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Savur"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Yesilli"
+  },
+  {
+    "il_adi": "Mardin",
+    "ilce_adi": "Omerli"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Bodrum"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Fethiye"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Milas"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Mentese"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Marmaris"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Seydikemer"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Ortaca"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Yatagan"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Dalaman"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Koycegiz"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Ula"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Datca"
+  },
+  {
+    "il_adi": "Mugla",
+    "ilce_adi": "Kavaklidere"
+  },
+  {
+    "il_adi": "Mus",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Mus",
+    "ilce_adi": "Bulanik"
+  },
+  {
+    "il_adi": "Mus",
+    "ilce_adi": "Malazgirt"
+  },
+  {
+    "il_adi": "Mus",
+    "ilce_adi": "Varto"
+  },
+  {
+    "il_adi": "Mus",
+    "ilce_adi": "Korkut"
+  },
+  {
+    "il_adi": "Mus",
+    "ilce_adi": "Haskoy"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Urgup"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Avanos"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Gulsehir"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Derinkuyu"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Acigol"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Kozakli"
+  },
+  {
+    "il_adi": "Nevsehir",
+    "ilce_adi": "Hacibektas"
+  },
+  {
+    "il_adi": "Nigde",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Nigde",
+    "ilce_adi": "Bor"
+  },
+  {
+    "il_adi": "Nigde",
+    "ilce_adi": "Ciftlik"
+  },
+  {
+    "il_adi": "Nigde",
+    "ilce_adi": "Ulukisla"
+  },
+  {
+    "il_adi": "Nigde",
+    "ilce_adi": "Altunhisar"
+  },
+  {
+    "il_adi": "Nigde",
+    "ilce_adi": "Camardi"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Altinordu"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Unye"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Fatsa"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Persembe"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Kumru"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Korgan"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Golkoy"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Ulubey"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Mesudiye"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Akkus"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Aybasti"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Gurgentepe"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Ikizce"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Catalpinar"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Caybasi"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Camas"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Kabatas"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Kabaduz"
+  },
+  {
+    "il_adi": "Ordu",
+    "ilce_adi": "Gulyali"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Cayeli"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Ardesen"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Pazar"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Findikli"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Kalkandere"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Guneysu"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Iyidere"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Ikizdere"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Derepazari"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Camlihemsin"
+  },
+  {
+    "il_adi": "Rize",
+    "ilce_adi": "Hemsin"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Adapazari"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Serdivan"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Akyazi"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Erenler"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Hendek"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Karasu"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Geyve"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Arifiye"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Sapanca"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Pamukova"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Ferizli"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Kocaali"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Kaynarca"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Sogutlu"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Karapurcek"
+  },
+  {
+    "il_adi": "Sakarya",
+    "ilce_adi": "Tarakli"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Ilkadim"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Atakum"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Bafra"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Carsamba"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Canik"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Vezirkopru"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Terme"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Tekkekoy"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Havza"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "19 Mayis"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Alacam"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Salipazari"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Ayvacik"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Kavak"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Asarcik"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Ladik"
+  },
+  {
+    "il_adi": "Samsun",
+    "ilce_adi": "Yakakent"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Kurtalan"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Pervari"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Baykan"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Sirvan"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Eruh"
+  },
+  {
+    "il_adi": "Siirt",
+    "ilce_adi": "Tillo"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Boyabat"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Gerze"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Ayancik"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Duragan"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Turkeli"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Erfelek"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Sarayduzu"
+  },
+  {
+    "il_adi": "Sinop",
+    "ilce_adi": "Dikmen"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Sarkisla"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Yildizeli"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Susehri"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Gemerek"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Zara"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Kangal"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Gurun"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Divrigi"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Koyulhisar"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Hafik"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Ulas"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Altinyayla"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Imranli"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Akincilar"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Golova"
+  },
+  {
+    "il_adi": "Sivas",
+    "ilce_adi": "Dogansar"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Corlu"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Suleymanpasa"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Cerkezkoy"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Kapakli"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Ergene"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Malkara"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Saray"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Sarkoy"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Hayrabolu"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Muratli"
+  },
+  {
+    "il_adi": "Tekirdag",
+    "ilce_adi": "Marmaraereglisi"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Erbaa"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Turhal"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Niksar"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Zile"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Resadiye"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Almus"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Pazar"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Yesilyurt"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Artova"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Sulusaray"
+  },
+  {
+    "il_adi": "Tokat",
+    "ilce_adi": "Basciftlik"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Ortahisar"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Akcaabat"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Arakli"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Of"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Yomra"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Arsin"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Vakfikebir"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Surmene"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Macka"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Besikduzu"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Carsibasi"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Caykara"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Tonya"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Duzkoy"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Salpazari"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Hayrat"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Koprubasi"
+  },
+  {
+    "il_adi": "Trabzon",
+    "ilce_adi": "Dernekpazari"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Pertek"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Mazgirt"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Cemisgezek"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Ovacik"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Hozat"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Pulumur"
+  },
+  {
+    "il_adi": "Tunceli",
+    "ilce_adi": "Nazimiye"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Eyyubiye"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Haliliye"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Siverek"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Viransehir"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Karakopru"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Akcakale"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Suruc"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Birecik"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Harran"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Ceylanpinar"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Bozova"
+  },
+  {
+    "il_adi": "Sanliurfa",
+    "ilce_adi": "Hilvan"
+  },
+  {
+    "il_adi": "Usak",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Usak",
+    "ilce_adi": "Banaz"
+  },
+  {
+    "il_adi": "Usak",
+    "ilce_adi": "Esme"
+  },
+  {
+    "il_adi": "Usak",
+    "ilce_adi": "Sivasli"
+  },
+  {
+    "il_adi": "Usak",
+    "ilce_adi": "Ulubey"
+  },
+  {
+    "il_adi": "Usak",
+    "ilce_adi": "Karahalli"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Ipekyolu"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Ercis"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Tusba"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Edremit"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Ozalp"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Caldiran"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Baskale"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Muradiye"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Gurpinar"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Gevas"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Saray"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Catak"
+  },
+  {
+    "il_adi": "Van",
+    "ilce_adi": "Bahcesaray"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Sorgun"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Akdagmadeni"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Yerkoy"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Bogazliyan"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Sarikaya"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Cekerek"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Sefaatli"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Saraykent"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Cayiralan"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Kadisehri"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Aydincik"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Yenifakili"
+  },
+  {
+    "il_adi": "Yozgat",
+    "ilce_adi": "Candir"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Eregli"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Caycuma"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Devrek"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Kozlu"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Alapli"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Kilimli"
+  },
+  {
+    "il_adi": "Zonguldak",
+    "ilce_adi": "Gokcebey"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Ortakoy"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Eskil"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Gulagac"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Guzelyurt"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Sultanhani"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Agacoren"
+  },
+  {
+    "il_adi": "Aksaray",
+    "ilce_adi": "Sariyahsi"
+  },
+  {
+    "il_adi": "Bayburt",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Bayburt",
+    "ilce_adi": "Demirozu"
+  },
+  {
+    "il_adi": "Bayburt",
+    "ilce_adi": "Aydintepe"
+  },
+  {
+    "il_adi": "Karaman",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Karaman",
+    "ilce_adi": "Ermenek"
+  },
+  {
+    "il_adi": "Karaman",
+    "ilce_adi": "Sariveliler"
+  },
+  {
+    "il_adi": "Karaman",
+    "ilce_adi": "Ayranci"
+  },
+  {
+    "il_adi": "Karaman",
+    "ilce_adi": "Kazimkarabekir"
+  },
+  {
+    "il_adi": "Karaman",
+    "ilce_adi": "Basyayla"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Yahsihan"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Keskin"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Delice"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Sulakyurt"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Bahsili"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Baliseyh"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Karakecili"
+  },
+  {
+    "il_adi": "Kirikkale",
+    "ilce_adi": "Celebi"
+  },
+  {
+    "il_adi": "Batman",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Batman",
+    "ilce_adi": "Kozluk"
+  },
+  {
+    "il_adi": "Batman",
+    "ilce_adi": "Sason"
+  },
+  {
+    "il_adi": "Batman",
+    "ilce_adi": "Besiri"
+  },
+  {
+    "il_adi": "Batman",
+    "ilce_adi": "Gercus"
+  },
+  {
+    "il_adi": "Batman",
+    "ilce_adi": "Hasankeyf"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Cizre"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Silopi"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Idil"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Uludere"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Beytussebap"
+  },
+  {
+    "il_adi": "Sirnak",
+    "ilce_adi": "Guclukonak"
+  },
+  {
+    "il_adi": "Bartin",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Bartin",
+    "ilce_adi": "Ulus"
+  },
+  {
+    "il_adi": "Bartin",
+    "ilce_adi": "Amasra"
+  },
+  {
+    "il_adi": "Bartin",
+    "ilce_adi": "Kurucasile"
+  },
+  {
+    "il_adi": "Ardahan",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Ardahan",
+    "ilce_adi": "Gole"
+  },
+  {
+    "il_adi": "Ardahan",
+    "ilce_adi": "Cildir"
+  },
+  {
+    "il_adi": "Ardahan",
+    "ilce_adi": "Hanak"
+  },
+  {
+    "il_adi": "Ardahan",
+    "ilce_adi": "Posof"
+  },
+  {
+    "il_adi": "Ardahan",
+    "ilce_adi": "Damal"
+  },
+  {
+    "il_adi": "Igdir",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Igdir",
+    "ilce_adi": "Tuzluca"
+  },
+  {
+    "il_adi": "Igdir",
+    "ilce_adi": "Aralik"
+  },
+  {
+    "il_adi": "Igdir",
+    "ilce_adi": "Karakoyunlu"
+  },
+  {
+    "il_adi": "Yalova",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Yalova",
+    "ilce_adi": "Ciftlikkoy"
+  },
+  {
+    "il_adi": "Yalova",
+    "ilce_adi": "Cinarcik"
+  },
+  {
+    "il_adi": "Yalova",
+    "ilce_adi": "Altinova"
+  },
+  {
+    "il_adi": "Yalova",
+    "ilce_adi": "Armutlu"
+  },
+  {
+    "il_adi": "Yalova",
+    "ilce_adi": "Termal"
+  },
+  {
+    "il_adi": "Karabuk",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Karabuk",
+    "ilce_adi": "Safranbolu"
+  },
+  {
+    "il_adi": "Karabuk",
+    "ilce_adi": "Yenice"
+  },
+  {
+    "il_adi": "Karabuk",
+    "ilce_adi": "Eskipazar"
+  },
+  {
+    "il_adi": "Karabuk",
+    "ilce_adi": "Eflani"
+  },
+  {
+    "il_adi": "Karabuk",
+    "ilce_adi": "Ovacik"
+  },
+  {
+    "il_adi": "Kilis",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Kilis",
+    "ilce_adi": "Musabeyli"
+  },
+  {
+    "il_adi": "Kilis",
+    "ilce_adi": "Elbeyli"
+  },
+  {
+    "il_adi": "Kilis",
+    "ilce_adi": "Polateli"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Kadirli"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Duzici"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Bahce"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Toprakkale"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Sumbas"
+  },
+  {
+    "il_adi": "Osmaniye",
+    "ilce_adi": "Hasanbeyli"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Merkez"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Akcakoca"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Kaynasli"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Golyaka"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Cilimli"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Yigilca"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Gumusova"
+  },
+  {
+    "il_adi": "Duzce",
+    "ilce_adi": "Cumayeri"
+  }
+]
