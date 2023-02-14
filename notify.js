@@ -11,7 +11,15 @@ const notifyAddress = async (data) => {
     const currentBatch = cache.messageCache;
     cache.messageCache = [];
     try {
-        const res = await axios.post(config.NOTIFY_URL, config.DATA_MAPPER(currentBatch));
+        const headers = {
+            'Content-Type': 'application/json',
+        };
+        if (config.NOTIFY_API_KEY) {
+            headers['x-api-key'] = config.NOTIFY_API_KEY;
+        }
+        const res = await axios.post(config.NOTIFY_URL, config.DATA_MAPPER(currentBatch), {
+            headers
+        });
         console.log(res.data);
     } catch (e) {
         console.error(e.message, currentBatch);

@@ -26,11 +26,15 @@ function onMessageHandler(target, context, msg, self) {
   
   if (isPossiblyAddress(msg)) {
     const data = { 
-      author: context.username, 
-      message: msg, 
-      channel: target.startsWith('#') ? target.slice(1) : target, // remove # from channel name 
-      timestamp: parseInt(context['tmi-sent-ts'].slice(0,-3))  // convert string milliseconds to number seconds 
+      raw_text: msg,
+      channel: 'twitch',
+      epoch: parseInt(context['tmi-sent-ts'].slice(0,-3)),  // convert string milliseconds to number seconds 
+      extra_parameters: JSON.stringify({
+        ...context,
+        twitch_channel: target.startsWith('#') ? target.slice(1) : target, // remove # from channel name
+      })
     };
+    
     if (config.LOG_CHAT) {
       console.log('Detected Turkish address: ' + msg);
     }
